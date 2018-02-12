@@ -26,4 +26,5 @@ Temporary Items
 .apdisk
 
 client/node_modules
+client/public
 server/node_modules
